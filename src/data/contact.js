@@ -4,17 +4,17 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/Tesla-Atoz',
+    link: 'https://github.com/Harshad165',
     label: 'Github',
     icon: faGithub,
   },
   {
-    link: 'https://www.linkedin.com/in/dinesh-pandikona',
+    link: 'https://www.linkedin.com/in/harshad-varma-8685161a6/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
   {
-    link: 'mailto:pandikonadinesh13@gmail.com',
+    link: 'harshadvarma8@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },

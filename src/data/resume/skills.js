@@ -13,28 +13,13 @@ const skills = [
     category: ['Web Development', 'Javascript'],
   },
   {
-    title: 'Bash',
-    competency: 2,
-    category: ['Tools', 'Languages'],
-  },
-  {
-    title: 'Heroku',
-    competency: 1,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'PostgreSQL/SQLite3/SQL',
-    competency: 2,
-    category: ['Web Development', 'Databases', 'Languages'],
+    title: 'TensorFlow',
+    competency: 4,
+    category: ['Data Science', 'Python'],
   },
   {
     title: 'Numpy',
-    competency: 3,
-    category: ['Data Science', 'Data Engineering', 'Python'],
-  },
-  {
-    title: 'Tensorflow + Keras',
-    competency: 2,
+    competency: 4,
     category: ['Data Science', 'Python'],
   },
   {
@@ -60,22 +45,22 @@ const skills = [
   {
     title: 'Data Visualization',
     competency: 3,
-    category: ['Data Science', 'Javascript'],
+    category: ['Data Science'],
   },
   {
     title: 'Pandas',
     competency: 4,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Science', 'Python'],
   },
   {
     title: 'Matplotlib',
     competency: 3,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Science', 'Python'],
   },
   {
     title: 'Scikit-Learn',
     competency: 4,
-    category: ['Data Engineering', 'Data Science', 'Python'],
+    category: ['Data Science', 'Python'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 

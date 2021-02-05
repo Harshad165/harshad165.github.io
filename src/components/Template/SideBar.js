@@ -9,18 +9,18 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/me.png`} alt="" />
       </Link>
       <header>
-        <h2>Dinesh Pandikona</h2>
-        <p><a href="mailto:pandikonadinesh13@gmail.com">pandikonadinesh13@gmail.com</a></p>
+        <h2>Harshad Varma</h2>
+        <p><a href="mailto:harshadvarma8@gmail.com">harshadvarma8@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Dinesh. I like building things.
-        I am currently <a href="http://www.vnrvjiet.ac.in/">VNR VJIET</a> under graduate, Team-Lead for a group of 6 at my workplace.
+      <p>Hi, I&apos;m Harshad. I like to explore new technologies.
+        I am currently an undergraduate in <a href="http://www.vit.ac.in/">Vellore Institute of Technology</a>
       </p>
       <ul className="actions">
         <li>
@@ -31,7 +31,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Dinesh Pandikona <Link to="/">dineshpandikona.me</Link>.</p>
+      <p className="copyright">&copy; Harshad Varma <Link to="/">HarshadVarma.me</Link>.</p>
     </section>
   </section>
 );

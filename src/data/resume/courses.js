@@ -1,20 +1,17 @@
 const courses = [
   {
-    title: 'ReactJs- the complete Guide',
+    title: 'Big Data Analysis',
     number: '1',
-    // link: 'http://stanford.edu/class/ee364a/',
     university: 'Udemy',
   },
   {
-    title: 'Intro to Machine Learning',
+    title: 'Deep Learning A-Z™ Hands-On Artificial Neural Networks',
     number: '2',
-    // link: 'http://cs229.stanford.edu/',
     university: 'Udacity',
   },
   {
-    title: 'Django3',
+    title: 'Introduction to machine learning',
     number: '3',
-    // link: 'http://cs231n.stanford.edu/',
     university: 'Udemy',
   },
 ];

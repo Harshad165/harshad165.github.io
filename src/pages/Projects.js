@@ -9,7 +9,7 @@ import data from '../data/projects';
 const Projects = () => (
   <Main
     title="Projects"
-    description="Learn about Dinesh's projects."
+    description="Learn about Harshad's projects."
   >
     <article className="post" id="projects">
       <header>
