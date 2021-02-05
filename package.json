@@ -1,11 +1,11 @@
 {
-  "name": "dineshpandikona",
+  "name": "harshad165.github.io",
   "version": "3.0.0",
-  "homepage": "https://vegmedquotes.xyz/dineshpandikona/",
+  "homepage": "https://harshad165.github.io",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tesla-Atoz/dineshpandikona.git"
+    "url": "https://github.com/Harshad165/harshad165.github.io.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
@@ -22,7 +22,7 @@
     "@fortawesome/free-regular-svg-icons": "^5.15.1",
     "@fortawesome/react-fontawesome": "0.1.14",
     "dayjs": "^1.9.7",
-    "node-sass": "^4.0.0",
+    "node-sass": "^4.14.1",
     "prop-types": "^15.7.2",
     "raw.macro": "^0.4.2",
     "react": "^17.0.1",
